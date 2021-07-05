@@ -16,11 +16,3 @@ To end the program, you can hit the "X" button. It is recommended to quit throug
  - run the coded with the assist of gradle:        gradle run --args='inputFile.txt' --console=plain
 
 in this case the input file is inputted and named inputFile.txt in the package.
-
-
-
-
-***NOTE: the package name is assign1 since I added onto the assignemnt1 from before**
-**NOTE: when running above lines in command line, sometimes this warning is displayed:
-            uses unchecked or unsafe operations.
-            Note: Recompile with -Xlint:unchecked for details.
